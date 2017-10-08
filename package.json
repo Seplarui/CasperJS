@@ -1,0 +1,19 @@
+{
+  "name": "casperjs",
+  "version": "1.0.0",
+  "description": "\"#CasperJS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seplarui/CasperJS.git"
+  },
+  "author": "Seplarui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seplarui/CasperJS/issues"
+  },
+  "homepage": "https://github.com/Seplarui/CasperJS#readme"
+}
